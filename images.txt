@@ -1,3 +1,1 @@
-mysql:latest
-cooderl/wewe-rss:latest
-gdy666/lucky:latest
+vital987/chrome-novnc:latest
