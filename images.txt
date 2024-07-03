@@ -1,1 +1,1 @@
-vital987/chrome-novnc:latest
+maene/code-server:latest
