@@ -1,1 +1,1 @@
-maene/code-server:latest
+lamfire8390/istoreos:openclash
