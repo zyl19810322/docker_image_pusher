@@ -1,1 +1,1 @@
-lamfire8390/istoreos:openclash
+thewicklowwolf/channeltube:latest
